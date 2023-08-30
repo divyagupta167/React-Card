@@ -1,0 +1,11 @@
+.App{
+  width: auto;
+  display: grid;
+    grid-template-columns: repeat(3,6rem);
+    /* gap: 200px; */
+    grid-column-gap: 200px;
+    grid-row-gap: 30px;
+    place-items: center;
+    justify-content: center;
+ 
+}
